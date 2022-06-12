@@ -1,0 +1,30 @@
+h1 {
+    color: red;
+}
+
+.title-homework {
+    background-color: blue;
+    color: white;
+    width: 100px;
+}
+
+.title-accent {
+    color: red;
+}
+
+h2 {
+    background-color: green;
+    color: white;
+}
+
+.skills {
+    padding: 40px;
+}
+
+.form_reg {
+    padding-left: 100px;
+}
+
+.list {
+    border: 1px solid black
+}
